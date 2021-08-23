@@ -1,2 +1,2 @@
-# git-workshop
-A repository to use for a git workshop
+# test
+This is a test repository
