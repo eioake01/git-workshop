@@ -16,4 +16,4 @@ Note that the majority of the features are provided by isolated plugins and thus
 
 This is a self-hosted bot, therefore it requires to be hosted on a private server in order to be used. Further instructions to do so are provided below. It also required a running instance of MongoDB on the server but still, the docker-based installation instructions take care of that. 
 
-To get started, head over to the [Installation Guide](/installation).
+To get started, head over to the [Installation Guide]({{site.baseurl}}/installation).
