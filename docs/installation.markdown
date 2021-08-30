@@ -7,7 +7,7 @@ permalink: /installation
 There are couple ways to install the bot but generally the installing using docker-compose is the most convenient way to do it. Nevertheless, don't hesitate to use any other methods that suits you.
 
 ## Set your env variables
-Since OvisBot requires some predifined configuration before launch, it is necessary the you set your environment variables accordingly. Alternatively you can create a `.env` file that defined the required variables. Refer to [.env.example]({{ site.github-repo }}/.env.exampl) for an example. You can do that by yourself before continuing with your OvisBot installation or you can do it afterwards by using the `ovisbot` cli (see `Installing using pip` for more details).
+Since OvisBot requires some predifined configuration before launch, it is necessary the you set your environment variables accordingly. Alternatively you can create a `.env` file that defined the required variables. Refer to [.env.example]({{ site.github-repo }}blob/master/.env.example) for an example. You can do that by yourself before continuing with your OvisBot installation or you can do it afterwards by using the `ovisbot` cli (see `Installing using pip` for more details).
 
 
 ## Installing using pip
